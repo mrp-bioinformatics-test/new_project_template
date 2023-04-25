@@ -1,2 +1,3 @@
-# new_project_template
-repo with files for creating a new bioinfo core project
+# New Project Template Repo
+
+This repo contains a directory structure and template files for creating a new MRP bioinformatics core project.
