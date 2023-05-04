@@ -13,15 +13,29 @@ format:
 
 ## PI
 
+## Project Title
 
-## Date Project created
+## Project Start Date
 
+## Project End Date
 
+## Quantum Sponsored Project ID#
+
+## Pre-Award/Non-Sponsored Account
+
+## Sponsor
+
+## Sponsor Award Number
+
+## Request Date
+
+## Requestor
 
 ## Request Description
 
 
 ## Code for running the analysis
+
 
 ## Data Type
 
